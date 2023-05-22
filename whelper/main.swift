@@ -39,7 +39,7 @@ Search pattern to match. \"\(WordFinder.wildcard)\"'s in pattern match any chara
     @Option(name: .customLong("dictionary"),
             help: """
 Path name for user-specified dictionary.
-Dictoiinary is newline separated list of words.
+Dictionary is newline separated list of words.
 """)
     var wordListPath = "~/bin/wordle-La.txt"
     
@@ -56,8 +56,7 @@ Dictoiinary is newline separated list of words.
     @Option( name: .shortAndLong, help: "Wildcard letters will not match any letters to the exclude option.")
     var exclude = " "       // default to an non-empty string containing a <sp> character
     
-    
-    
+        
     mutating func run() throws {
         let wordFinder = try WordFinder(wordListPath: wordListPath, ignoreCase: ignoreCase)
         let args = CommandLine.arguments

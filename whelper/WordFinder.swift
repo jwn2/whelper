@@ -1,8 +1,16 @@
 //
 //  WordFinder.swift
-//  wordlasso
+//  whelper
 //
-//  Created by John W. Noerenberg II on 12/28/22.
+// The WordFinder struct is initialized with the contents of the dictionary of words to match the template supplied
+// by the user. It contains isMatch and findMatches methods to compare the words in the dictionary against the template,
+// returning a list of words that match the template.
+// findMatches gets the template and the exclusion list as arguments and uses isMatch to filter the list of words in the
+// the dictionary against them.
+//
+// caseCorrected deals with the ignore-case flag if the user invokes it.
+//
+//  Created by John W. Noerenberg II on 5/21/2023.
 //
 
 import Foundation
