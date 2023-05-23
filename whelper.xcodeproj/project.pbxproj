@@ -9,8 +9,7 @@
 /* Begin PBXBuildFile section */
 		F1CE01932A1AF4E3004FB6DA /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1CE01922A1AF4E3004FB6DA /* main.swift */; };
 		F1CE019A2A1AF607004FB6DA /* WordFinder.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1CE01992A1AF607004FB6DA /* WordFinder.swift */; };
-		F1CE019D2A1B01BD004FB6DA /* ArgumentParser in Frameworks */ = {isa = PBXBuildFile; productRef = F1CE019C2A1B01BD004FB6DA /* ArgumentParser */; };
-		F1CE019F2A1B01BD004FB6DA /* generate-manual in Frameworks */ = {isa = PBXBuildFile; productRef = F1CE019E2A1B01BD004FB6DA /* generate-manual */; };
+		F1CE01A22A1C4C4E004FB6DA /* ArgumentParser in Frameworks */ = {isa = PBXBuildFile; productRef = F1CE01A12A1C4C4E004FB6DA /* ArgumentParser */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -36,8 +35,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F1CE019D2A1B01BD004FB6DA /* ArgumentParser in Frameworks */,
-				F1CE019F2A1B01BD004FB6DA /* generate-manual in Frameworks */,
+				F1CE01A22A1C4C4E004FB6DA /* ArgumentParser in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -86,8 +84,7 @@
 			);
 			name = whelper;
 			packageProductDependencies = (
-				F1CE019C2A1B01BD004FB6DA /* ArgumentParser */,
-				F1CE019E2A1B01BD004FB6DA /* generate-manual */,
+				F1CE01A12A1C4C4E004FB6DA /* ArgumentParser */,
 			);
 			productName = whelper;
 			productReference = F1CE018F2A1AF4E3004FB6DA /* whelper */;
@@ -118,7 +115,7 @@
 			);
 			mainGroup = F1CE01862A1AF4E3004FB6DA;
 			packageReferences = (
-				F1CE019B2A1B01BD004FB6DA /* XCRemoteSwiftPackageReference "swift-argument-parser" */,
+				F1CE01A02A1C4C4E004FB6DA /* XCRemoteSwiftPackageReference "swift-argument-parser" */,
 			);
 			productRefGroup = F1CE01902A1AF4E3004FB6DA /* Products */;
 			projectDirPath = "";
@@ -175,6 +172,7 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
@@ -235,6 +233,7 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -258,7 +257,10 @@
 		F1CE01972A1AF4E3004FB6DA /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUILD_LIBRARY_FOR_DISTRIBUTION = NO;
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = X952RV3QG9;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 13.3;
@@ -270,10 +272,14 @@
 		F1CE01982A1AF4E3004FB6DA /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUILD_LIBRARY_FOR_DISTRIBUTION = NO;
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = X952RV3QG9;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 13.3;
+				ONLY_ACTIVE_ARCH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 			};
@@ -303,7 +309,7 @@
 /* End XCConfigurationList section */
 
 /* Begin XCRemoteSwiftPackageReference section */
-		F1CE019B2A1B01BD004FB6DA /* XCRemoteSwiftPackageReference "swift-argument-parser" */ = {
+		F1CE01A02A1C4C4E004FB6DA /* XCRemoteSwiftPackageReference "swift-argument-parser" */ = {
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/apple/swift-argument-parser.git";
 			requirement = {
@@ -314,15 +320,10 @@
 /* End XCRemoteSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
-		F1CE019C2A1B01BD004FB6DA /* ArgumentParser */ = {
+		F1CE01A12A1C4C4E004FB6DA /* ArgumentParser */ = {
 			isa = XCSwiftPackageProductDependency;
-			package = F1CE019B2A1B01BD004FB6DA /* XCRemoteSwiftPackageReference "swift-argument-parser" */;
+			package = F1CE01A02A1C4C4E004FB6DA /* XCRemoteSwiftPackageReference "swift-argument-parser" */;
 			productName = ArgumentParser;
-		};
-		F1CE019E2A1B01BD004FB6DA /* generate-manual */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = F1CE019B2A1B01BD004FB6DA /* XCRemoteSwiftPackageReference "swift-argument-parser" */;
-			productName = "generate-manual";
 		};
 /* End XCSwiftPackageProductDependency section */
 	};

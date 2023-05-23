@@ -21,7 +21,9 @@ struct WordFinder {
     let ignoreCase: Bool
     
     init(wordListPath: String, ignoreCase: Bool) throws {
-        let wordListContent = try String(contentsOfFile: wordListPath)
+        let pathName = (wordListPath as NSString).expandingTildeInPath
+        //convert wordListPath to an NSString so I can use .expandingTildeInPath
+        let wordListContent = try String(contentsOfFile: pathName)
         wordList = wordListContent.components(separatedBy: .newlines)
         self.ignoreCase = ignoreCase
     }

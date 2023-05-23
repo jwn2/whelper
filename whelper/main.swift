@@ -45,7 +45,7 @@ Dictionary is newline separated list of words.
     
     // -c --count <n>
     // prints first <n> matches. If more match, also prints the total number of matches
-    @Option(name: .shortAndLong, help: "print no more than <n> matches.")
+    @Option(name: .shortAndLong, help: "print no more than <count> matches. <count> == 0 prints all matches.")
     var count: Int = 0  // default is to print them all.
     
     // -e --exclude <excludeList>
@@ -53,8 +53,8 @@ Dictionary is newline separated list of words.
     // It defaults to a <sp>. No words can contain spaces. We don't want the string to be
     // empty. But we want a non-empty string to compare. A space will allow wildcards to
     // match on any letter. See the isMatch method for details.
-    @Option( name: .shortAndLong, help: "Wildcard letters will not match any letters to the exclude option.")
-    var exclude = " "       // default to an non-empty string containing a <sp> character
+    @Option( name: .shortAndLong, help: "Wildcard letters will not match any letters in the string <exclude>")
+    var exclude = ""       // default to an empty string
     
         
     mutating func run() throws {
@@ -77,7 +77,22 @@ Dictionary is newline separated list of words.
     }
 }
 
+// getAndPrint - uing the template, print matches from wordFinder's dictionary.
+// print no more than count matches. If there are more, prefix the list of matches with the total number found.
+// pass the exclude list to findMatches so wildcards don't match any characters that are not eligible to match.
+
 private func getAndPrint(for template: String, using wordFinder: WordFinder, limit: Int, exclude: String) {
+    let matches = wordFinder.findMatches(for: template, exclude: exclude)
+    let maxMatches = (limit > 0) ? min(matches.count, limit) : matches.count // if limit is positive, use it
+    if maxMatches < matches.count {
+        print ("Found \(matches.count) \(matches.count == 1 ? "match" : "matches"); printing first \(maxMatches)")
+    } else {
+        print ("Found \(matches.count) \(matches.count == 1 ? "match" : "matches").")
+    }
+    if matches.count == 0 {return} else { }
+        for i in 0 ..< maxMatches {
+            print (matches[i])
+        }
     
 }
 
