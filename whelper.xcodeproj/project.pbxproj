@@ -25,6 +25,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		F1B3CFFC2A26A10C003E96E2 /* wordle-La.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "wordle-La.txt"; sourceTree = "<group>"; };
 		F1CE018F2A1AF4E3004FB6DA /* whelper */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = whelper; sourceTree = BUILT_PRODUCTS_DIR; };
 		F1CE01922A1AF4E3004FB6DA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		F1CE01992A1AF607004FB6DA /* WordFinder.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WordFinder.swift; sourceTree = "<group>"; };
@@ -61,6 +62,7 @@
 		F1CE01912A1AF4E3004FB6DA /* whelper */ = {
 			isa = PBXGroup;
 			children = (
+				F1B3CFFC2A26A10C003E96E2 /* wordle-La.txt */,
 				F1CE01992A1AF607004FB6DA /* WordFinder.swift */,
 				F1CE01922A1AF4E3004FB6DA /* main.swift */,
 			);

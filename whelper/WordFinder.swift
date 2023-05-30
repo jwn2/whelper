@@ -3,8 +3,8 @@
 //  whelper
 //
 // The WordFinder struct is initialized with the contents of the dictionary of words to match the template supplied
-// by the user. It contains isMatch and findMatches methods to compare the words in the dictionary against the template,
-// returning a list of words that match the template.
+// by the user. The dictionary is stored in the array wordList. It contains isMatch and findMatches methods to compare
+// the words in the dictionary against the template, returning a list of words that match the template.
 // findMatches gets the template and the exclusion list as arguments and uses isMatch to filter the list of words in the
 // the dictionary against them.
 //
@@ -21,8 +21,7 @@ struct WordFinder {
     let ignoreCase: Bool
     
     init(wordListPath: String, ignoreCase: Bool) throws {
-        let pathName = (wordListPath as NSString).expandingTildeInPath
-        //convert wordListPath to an NSString so I can use .expandingTildeInPath
+        let pathName = (wordListPath as NSString).expandingTildeInPath //convert wordListPath to an NSString so I can use .expandingTildeInPath
         let wordListContent = try String(contentsOfFile: pathName)
         wordList = wordListContent.components(separatedBy: .newlines)
         self.ignoreCase = ignoreCase
