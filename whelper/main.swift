@@ -24,7 +24,7 @@
 
 import Foundation
 import ArgumentParser
-struct WordleHelper: ParsableCommand {
+struct whelper: ParsableCommand {
     // -h --help
     @Argument (help:"""
 Search pattern to match. \"\(WordFinder.wildcard)\"'s in pattern match any character not in the exclude list. <ret> for interactive mode
@@ -96,4 +96,4 @@ private func getAndPrint(for template: String, using wordFinder: WordFinder, lim
     
 }
 
-WordleHelper.main()
+whelper.main()
