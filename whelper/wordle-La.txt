@@ -71,12 +71,16 @@ amaze
 amber
 amble
 amend
+amigo
 amiss
 amity
 among
+amour
 ample
 amply
+amuck
 amuse
+ancho
 angel
 anger
 angle
@@ -139,6 +143,7 @@ axial
 axiom
 axion
 azure
+babka
 bacon
 badge
 badly
@@ -148,6 +153,7 @@ baker
 baler
 balmy
 banal
+bandy
 banjo
 barge
 baron
@@ -312,6 +318,7 @@ butte
 buxom
 buyer
 bylaw
+c
 cabal
 cabby
 cabin
@@ -325,12 +332,14 @@ cagey
 cairn
 camel
 cameo
+campy
 canal
 candy
 canny
 canoe
 canon
 caper
+capri
 caput
 carat
 cargo
@@ -437,6 +446,7 @@ comma
 conch
 condo
 conic
+copay
 copse
 coral
 corer
@@ -506,12 +516,11 @@ curry
 curse
 curve
 curvy
-cushy
-cuter
 cutie
 cyber
 cycle
 cynic
+dacha
 daddy
 daily
 dairy
@@ -700,6 +709,7 @@ facet
 faint
 fairy
 faith
+fakir
 false
 fancy
 fanny
@@ -821,6 +831,7 @@ froth
 frown
 froze
 fruit
+fubar
 fudge
 fugue
 fully
@@ -884,6 +895,7 @@ golem
 golly
 gonad
 goner
+gonna
 goody
 gooey
 goofy
@@ -948,13 +960,15 @@ gusto
 gusty
 gypsy
 habit
+hacky
+haiku
 hairy
 halve
 handy
+hanky
 happy
 hardy
 harem
-harpy
 harry
 harsh
 haste
@@ -979,6 +993,7 @@ helix
 hello
 hence
 heron
+hijab
 hilly
 hinge
 hippo
@@ -1050,6 +1065,7 @@ islet
 issue
 itchy
 ivory
+janky
 jaunt
 jazzy
 jelly
@@ -1057,6 +1073,7 @@ jerky
 jetty
 jewel
 jiffy
+jihad
 joint
 joist
 joker
@@ -1075,6 +1092,7 @@ karma
 kayak
 kebab
 khaki
+kinda
 kinky
 kiosk
 kitty
@@ -1089,6 +1107,7 @@ knock
 knoll
 known
 koala
+koran
 krill
 label
 labor
@@ -1200,6 +1219,7 @@ mangy
 mania
 manic
 manly
+manna
 manor
 maple
 march
@@ -1252,6 +1272,7 @@ mogul
 moist
 molar
 moldy
+momma
 money
 month
 moody
@@ -1286,7 +1307,9 @@ music
 musky
 musty
 myrrh
+nacho
 nadir
+naggy
 naive
 nanny
 nasal
@@ -1351,6 +1374,7 @@ organ
 other
 otter
 ought
+ouija
 ounce
 outdo
 outer
@@ -1369,6 +1393,7 @@ pagan
 paint
 paler
 palsy
+panda
 panel
 panic
 pansy
@@ -1531,6 +1556,7 @@ quite
 quota
 quote
 quoth
+quran
 rabbi
 rabid
 racer
@@ -1546,6 +1572,7 @@ ramen
 ranch
 randy
 range
+rangy
 rapid
 rarer
 raspy
@@ -2155,6 +2182,8 @@ udder
 ulcer
 ultra
 umbra
+unbag
+uncap
 uncle
 uncut
 under
@@ -2166,6 +2195,7 @@ unify
 union
 unite
 unity
+unjam
 unlit
 unmet
 unset
@@ -2190,6 +2220,7 @@ valid
 valor
 value
 valve
+vampy
 vapid
 vapor
 vault
@@ -2227,6 +2258,7 @@ voter
 vouch
 vowel
 vying
+wacko
 wacky
 wafer
 wager
@@ -2311,11 +2343,15 @@ wrote
 wrung
 wryly
 yacht
+yahoo
+yappy
 yearn
 yeast
 yield
 young
 youth
+yowza
+yucca
 zebra
 zesty
 zonal
