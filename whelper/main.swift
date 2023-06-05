@@ -59,7 +59,7 @@ Dictionary is newline separated list of words.
         
     mutating func run() throws {
         let wordFinder = try WordFinder(wordListPath: wordListPath, ignoreCase: ignoreCase)
-        let args = CommandLine.arguments
+        let _ = CommandLine.arguments
         if let template = template {
             getAndPrint(for: template, using: wordFinder, limit:count, exclude: exclude)
         } else {

@@ -7,8 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		F1B6227F2A280A1A00258CA1 /* WordFinder.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1B6227C2A280A1A00258CA1 /* WordFinder.swift */; };
-		F1B622802A280A1A00258CA1 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1B6227D2A280A1A00258CA1 /* main.swift */; };
 		F1CE01932A1AF4E3004FB6DA /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1CE01922A1AF4E3004FB6DA /* main.swift */; };
 		F1CE019A2A1AF607004FB6DA /* WordFinder.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1CE01992A1AF607004FB6DA /* WordFinder.swift */; };
 		F1CE01A22A1C4C4E004FB6DA /* ArgumentParser in Frameworks */ = {isa = PBXBuildFile; productRef = F1CE01A12A1C4C4E004FB6DA /* ArgumentParser */; };
@@ -28,8 +26,6 @@
 
 /* Begin PBXFileReference section */
 		F1B3CFFC2A26A10C003E96E2 /* wordle-La.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "wordle-La.txt"; sourceTree = "<group>"; };
-		F1B6227C2A280A1A00258CA1 /* WordFinder.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WordFinder.swift; sourceTree = "<group>"; };
-		F1B6227D2A280A1A00258CA1 /* main.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		F1B6227E2A280A1A00258CA1 /* wordle-La.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "wordle-La.txt"; sourceTree = "<group>"; };
 		F1B622812A280A8800258CA1 /* License.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = License.txt; sourceTree = "<group>"; };
 		F1CE018F2A1AF4E3004FB6DA /* whelper */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = whelper; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -49,16 +45,6 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		F1B6227B2A280A1A00258CA1 /* whelper */ = {
-			isa = PBXGroup;
-			children = (
-				F1B6227C2A280A1A00258CA1 /* WordFinder.swift */,
-				F1B6227D2A280A1A00258CA1 /* main.swift */,
-				F1B6227E2A280A1A00258CA1 /* wordle-La.txt */,
-			);
-			name = whelper;
-			sourceTree = "<group>";
-		};
 		F1CE01862A1AF4E3004FB6DA = {
 			isa = PBXGroup;
 			children = (
@@ -82,7 +68,7 @@
 				F1CE01992A1AF607004FB6DA /* WordFinder.swift */,
 				F1CE01922A1AF4E3004FB6DA /* main.swift */,
 				F1B622812A280A8800258CA1 /* License.txt */,
-				F1B6227B2A280A1A00258CA1 /* whelper */,
+				F1B6227E2A280A1A00258CA1 /* wordle-La.txt */,
 			);
 			path = whelper;
 			sourceTree = "<group>";
@@ -153,8 +139,6 @@
 			files = (
 				F1CE01932A1AF4E3004FB6DA /* main.swift in Sources */,
 				F1CE019A2A1AF607004FB6DA /* WordFinder.swift in Sources */,
-				F1B622802A280A1A00258CA1 /* main.swift in Sources */,
-				F1B6227F2A280A1A00258CA1 /* WordFinder.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -279,13 +263,14 @@
 		F1CE01972A1AF4E3004FB6DA /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				BUILD_LIBRARY_FOR_DISTRIBUTION = NO;
 				CODE_SIGN_STYLE = Automatic;
 				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = X952RV3QG9;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 13.3;
+				ONLY_ACTIVE_ARCH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 			};
@@ -294,7 +279,7 @@
 		F1CE01982A1AF4E3004FB6DA /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				BUILD_LIBRARY_FOR_DISTRIBUTION = NO;
 				CODE_SIGN_STYLE = Automatic;
 				DEAD_CODE_STRIPPING = YES;
