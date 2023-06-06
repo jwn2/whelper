@@ -1,9 +1,9 @@
 #  whelper
 MacOS command-line utility to suggest solutions to a Wordle puzzle.
 
-whelper searches its dictionary of possible wordle solutions to a template supplied by the user.
+whelper compares its dictionary of possible wordle solutions against a template supplied by the user.
 The template is a pattern of letters where a dot '.' represents any character. See sample invocations
-below. whelper has several options for its use,
+below. The utility has several options for its use,
 
     % whelper -h
 
@@ -31,16 +31,20 @@ whelper is built with Xcode for MacOS. To build it,
     least
     yeast
 
-    % whelper .east -e bl
+    % whelper .east --exclude bl
     Found 2 matches.
     feast
     yeast
 
-    % whelper ..... -c 5
-    Found 2324 matches; printing first 5
-    aback
-    abase
-    abate
-    abbey
-    abbot
+    % whelper ..... -c 5 -e a
+    Found 1407 matches; printing first 5
+    beech
+    beefy
+    befit
+    beget
+    begin
 
+## Acknowledgements
+Thanks to Mikey Ward, author of *Swift Programming: The Big Nerd Ranch Guide*. whelper is based on
+wordlasso from his book. Thanks to Garrett Sholtes who published a [wordle solution list](https://gist.github.com/scholtes/94f3c0303ba6a7768b47583aff36654d)
+that is the basis for whelper's dictionary
