@@ -23,14 +23,14 @@ whelper is built with Xcode for MacOS. To build it,
     {whelper='~/bin/whelper'}
 
 ## Sample invocations
-{
-% whelper .east    
-Found 4 matches.
-beast
-feast
-least
-yeast
-}
+
+    % whelper .east    
+    Found 4 matches.
+    beast
+    feast
+    least
+    yeast
+
 
 {
 % whelper .east -e bl
