@@ -318,7 +318,6 @@ butte
 buxom
 buyer
 bylaw
-c
 cabal
 cabby
 cabin
@@ -528,6 +527,7 @@ daisy
 dally
 dance
 dandy
+dater
 datum
 daunt
 dealt
