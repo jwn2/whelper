@@ -344,6 +344,7 @@ caput
 carat
 cargo
 carol
+carom
 carry
 carve
 caste
@@ -1091,6 +1092,7 @@ juror
 kappa
 karma
 kayak
+kazoo
 kebab
 khaki
 kinda
@@ -2273,6 +2275,7 @@ watch
 water
 waver
 waxen
+wazoo
 weary
 weave
 wedge
