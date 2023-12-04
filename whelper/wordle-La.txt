@@ -357,6 +357,7 @@ cavil
 cease
 cedar
 cello
+chaat
 chafe
 chaff
 chain
@@ -2054,6 +2055,7 @@ taste
 tasty
 tatty
 taunt
+taxed
 tawny
 teach
 teary
