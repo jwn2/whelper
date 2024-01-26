@@ -1,3 +1,4 @@
+
 aback
 abase
 abate
@@ -59,6 +60,7 @@ allot
 allow
 alloy
 aloft
+aloha
 alone
 along
 aloof
@@ -2056,8 +2058,8 @@ taste
 tasty
 tatty
 taunt
-taxed
 tawny
+taxed
 teach
 teary
 tease
