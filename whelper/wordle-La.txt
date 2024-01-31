@@ -307,6 +307,7 @@ bugle
 build
 built
 bulge
+bulgy
 bulky
 bully
 bunch
