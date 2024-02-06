@@ -612,6 +612,8 @@ drift
 drill
 drink
 drive
+droid
+droit
 droit
 droll
 drone
@@ -1268,6 +1270,7 @@ minim
 minor
 minty
 minus
+mirin
 mirth
 miser
 missy
@@ -1525,6 +1528,7 @@ proxy
 prude
 prune
 psalm
+pubic
 pubic
 pudgy
 puffy
@@ -2200,6 +2204,7 @@ undid
 undue
 unfed
 unfit
+unhip
 unify
 union
 unite
