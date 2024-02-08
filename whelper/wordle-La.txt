@@ -614,7 +614,6 @@ drink
 drive
 droid
 droit
-droit
 droll
 drone
 drool
@@ -1528,7 +1527,6 @@ proxy
 prude
 prune
 psalm
-pubic
 pubic
 pudgy
 puffy
