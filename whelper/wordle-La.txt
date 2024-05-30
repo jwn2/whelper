@@ -1457,6 +1457,7 @@ pinch
 piney
 pinky
 pinto
+pious
 piper
 pique
 pitch
@@ -2370,6 +2371,7 @@ young
 youth
 yowza
 yucca
+yummy
 zebra
 zesty
 zonal
