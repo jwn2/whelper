@@ -26,13 +26,13 @@ import Foundation
 import ArgumentParser
 struct whelper: ParsableCommand {
     // -h --help
-    @Argument (help:"""
+    @Argument(help:"""
 Search pattern to match. \"\(WordFinder.wildcard)\"'s in pattern match any character not in the exclude list. <ret> for interactive mode
 """)
     var template: String?           // the search pattern to match
 
     // -i --ignore-case
-    @Flag (name: .shortAndLong, help: "for case-insensitive matching.")
+    @Flag(name: .shortAndLong, help: "for case-insensitive matching.")
     var ignoreCase: Bool  = false   // assume case matters
     
     // --dictionary

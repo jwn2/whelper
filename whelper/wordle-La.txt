@@ -668,6 +668,7 @@ email
 embed
 ember
 emcee
+emote
 empty
 enact
 endow
@@ -1094,6 +1095,7 @@ jumpy
 junta
 junto
 juror
+kabob
 kappa
 karma
 kayak
@@ -1317,6 +1319,7 @@ music
 musky
 musty
 myrrh
+nabob
 nacho
 nadir
 naggy
@@ -2132,6 +2135,7 @@ topaz
 topic
 torch
 torso
+torte
 torus
 total
 totem
