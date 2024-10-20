@@ -43,6 +43,11 @@ Dictionary is newline separated list of words.
 """)
     var wordListPath = "~/bin/wordle-La.txt"
     
+    // --solutions
+    @Option(name: .shortAndLong,
+            help: "path name for user-specified wordle solutions file.")
+            
+    
     // -c --count <n>
     // prints first <n> matches. If more match, also prints the total number of matches
     @Option(name: .shortAndLong, help: "print no more than <count> matches. <count> == 0 prints all matches.")

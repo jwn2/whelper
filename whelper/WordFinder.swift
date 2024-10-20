@@ -18,12 +18,14 @@ import Foundation
 struct WordFinder {
     static let wildcard: Character = "."
     let wordList: [String]
+    let solutionsList: [String]
     let ignoreCase: Bool
     
     init(wordListPath: String, ignoreCase: Bool) throws {
-        let pathName = (wordListPath as NSString).expandingTildeInPath //convert wordListPath to an NSString so I can use .expandingTildeInPath
+        var pathName = (wordListPath as NSString).expandingTildeInPath //convert wordListPath to an NSString so I can use .expandingTildeInPath
         let wordListContent = try String(contentsOfFile: pathName)
         wordList = wordListContent.components(separatedBy: .newlines)
+        var pathName = (solutionsListPath as NSString).expandingTildeInPath 
         self.ignoreCase = ignoreCase
     }
 
