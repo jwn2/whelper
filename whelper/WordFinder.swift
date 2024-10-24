@@ -21,11 +21,13 @@ struct WordFinder {
     let solutionsList: [String]
     let ignoreCase: Bool
     
-    init(wordListPath: String, ignoreCase: Bool) throws {
+    init(wordListPath: String, solutionsPath: String, ignoreCase: Bool) throws {
         var pathName = (wordListPath as NSString).expandingTildeInPath //convert wordListPath to an NSString so I can use .expandingTildeInPath
-        let wordListContent = try String(contentsOfFile: pathName)
+        var wordListContent = try String(contentsOfFile: pathName)
         wordList = wordListContent.components(separatedBy: .newlines)
-        var pathName = (solutionsListPath as NSString).expandingTildeInPath 
+        pathName = (solutionsPath as NSString).expandingTildeInPath
+        wordListContent = try String(contentsOfFile: pathName)
+        solutionsList = wordListContent.components(separatedBy: .newlines)
         self.ignoreCase = ignoreCase
     }
 
@@ -50,11 +52,17 @@ struct WordFinder {
         }
     }
 
-    //findMatches runs wordList.filter with isMatch as the filter criterion for the
-    //filtering operation.
+    // findMatches first filters the wordlist for any words matching the template, excluding letters we've eliminated
+    // using isMatch. Then it filters out any known solutions from previous puzzles.
+    // The resulting list are possible solutions that haven't previously solved Wordle.
+    
         func findMatches(for template: String, exclude: String) -> [String] {
-        return wordList.filter { candidate in
-            isMatch(template: caseCorrected(template), with: caseCorrected(candidate), exclude: caseCorrected(exclude))
-        }
+            let allMatches = wordList.filter { candidate in
+                isMatch(template: caseCorrected(template), with: caseCorrected(candidate), exclude: caseCorrected(exclude))
+            }
+            return allMatches.filter { !solutionsList.contains($0)}
+//        return wordList.filter { candidate in
+//            isMatch(template: caseCorrected(template), with: caseCorrected(candidate), exclude: caseCorrected(exclude))
+//        }
     }
 }

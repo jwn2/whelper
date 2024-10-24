@@ -44,8 +44,11 @@ Dictionary is newline separated list of words.
     var wordListPath = "~/bin/wordle-La.txt"
     
     // --solutions
-    @Option(name: .shortAndLong,
+    // any words matching the pattern found in the solutions list are deleted from the list of suggestions
+    // Wordle doesn't repeat past solutions (so far as I know)
+    @Option(name: .customLong("solutions"),
             help: "path name for user-specified wordle solutions file.")
+    var solutionsPath = "~/bin/wordle-Sa.txt"
             
     
     // -c --count <n>
@@ -63,7 +66,7 @@ Dictionary is newline separated list of words.
     
         
     mutating func run() throws {
-        let wordFinder = try WordFinder(wordListPath: wordListPath, ignoreCase: ignoreCase)
+        let wordFinder = try WordFinder(wordListPath: wordListPath, solutionsPath: solutionsPath, ignoreCase: ignoreCase)
         let _ = CommandLine.arguments
         if let template = template {
             getAndPrint(for: template, using: wordFinder, limit:count, exclude: exclude)
