@@ -61,8 +61,5 @@ struct WordFinder {
                 isMatch(template: caseCorrected(template), with: caseCorrected(candidate), exclude: caseCorrected(exclude))
             }
             return allMatches.filter { !solutionsList.contains($0)}
-//        return wordList.filter { candidate in
-//            isMatch(template: caseCorrected(template), with: caseCorrected(candidate), exclude: caseCorrected(exclude))
-//        }
     }
 }
