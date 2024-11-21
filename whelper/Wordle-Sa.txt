@@ -92,6 +92,7 @@ basin
 bathe
 baton
 batty
+bawdy
 bayou
 beach
 beady
@@ -118,6 +119,7 @@ black
 blame
 bland
 blare
+blaze
 bleak
 bleed
 bleep
@@ -135,6 +137,7 @@ boost
 booze
 boozy
 borax
+bossy
 bough
 brace
 braid
@@ -297,6 +300,7 @@ depth
 deter
 devil
 diary
+dicey
 digit
 diner
 dingo
@@ -326,6 +330,7 @@ dwell
 dwelt
 early
 earth
+easel
 ebony
 edict
 egret
@@ -354,6 +359,7 @@ ether
 ethic
 ethos
 evade
+event
 every
 evoke
 exact
@@ -375,6 +381,7 @@ feign
 feral
 ferry
 fewer
+fiber
 field
 fiend
 fifty
@@ -405,6 +412,7 @@ flora
 floss
 flour
 flout
+flown
 fluff
 flume
 flunk
@@ -422,6 +430,7 @@ forth
 forty
 found
 foyer
+frail
 frame
 frank
 fresh
@@ -431,6 +440,7 @@ frond
 front
 frost
 froth
+frown
 froze
 fully
 fungi
@@ -461,8 +471,10 @@ glory
 glove
 glyph
 gnash
+going
 golem
 goner
+goofy
 goose
 gorge
 gouge
@@ -547,6 +559,7 @@ inept
 inert
 infer
 inlay
+inner
 input
 inter
 intro
@@ -702,6 +715,7 @@ neigh
 nerdy
 never
 nicer
+niche
 night
 ninja
 ninth
@@ -711,6 +725,7 @@ north
 nymph
 occur
 ocean
+octet
 offal
 often
 older
@@ -786,6 +801,7 @@ prick
 pride
 prime
 primo
+primp
 print
 prior
 prize
@@ -820,6 +836,7 @@ range
 ratio
 rayon
 react
+ready
 realm
 rebel
 rebus
@@ -840,8 +857,8 @@ retry
 revel
 rhino
 rhyme
-ridge
 rider
+ridge
 right
 riper
 risen
@@ -867,6 +884,7 @@ salad
 sally
 salsa
 salty
+sandy
 sassy
 saucy
 saute
@@ -912,6 +930,7 @@ shire
 shirk
 shore
 shorn
+shout
 shown
 showy
 shrub
@@ -921,6 +940,7 @@ siege
 sight
 since
 sissy
+sixth
 skate
 skier
 skiff
@@ -956,6 +976,7 @@ snaky
 snare
 snarl
 sneak
+snoop
 snort
 snout
 soggy
@@ -981,6 +1002,7 @@ spill
 spire
 splat
 spoke
+spoon
 spout
 spray
 spurt
@@ -1012,6 +1034,7 @@ sting
 stink
 stint
 stock
+stoic
 stole
 stomp
 stone
@@ -1036,6 +1059,7 @@ sushi
 sweat
 sweep
 sweet
+swell
 swill
 swine
 swirl
@@ -1046,7 +1070,9 @@ syrup
 table
 taboo
 tacit
+tacky
 taken
+tally
 talon
 tangy
 taper
@@ -1117,11 +1143,13 @@ trite
 troll
 trope
 trove
+truly
 truss
 trust
 truth
 tryst
 tutor
+tunic
 twang
 tweak
 tweed
@@ -1150,6 +1178,7 @@ using
 usual
 usurp
 utter
+uvula
 vague
 valet
 valid
@@ -1161,8 +1190,10 @@ verge
 verve
 video
 vigor
+vinyl
 viola
 viral
+visor
 vital
 vivid
 vodka
@@ -1177,6 +1208,7 @@ waste
 watch
 weary
 wedge
+weird
 whack
 whale
 wheel
@@ -1204,6 +1236,7 @@ worst
 would
 woven
 wrath
+wreak
 wrist
 write
 wrong
