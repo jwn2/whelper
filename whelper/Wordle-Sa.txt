@@ -92,6 +92,7 @@ basin
 bathe
 baton
 batty
+bawdy
 bayou
 beach
 beady
@@ -118,6 +119,7 @@ black
 blame
 bland
 blare
+blaze
 bleak
 bleed
 bleep
@@ -135,6 +137,7 @@ boost
 booze
 boozy
 borax
+bossy
 bough
 brace
 braid
@@ -161,6 +164,7 @@ broke
 brook
 broom
 broth
+brown
 brush
 brute
 buddy
@@ -210,6 +214,7 @@ chief
 child
 chill
 chime
+chock
 choir
 choke
 chord
@@ -297,12 +302,14 @@ depth
 deter
 devil
 diary
+dicey
 digit
 diner
 dingo
 disco
 ditto
 dodge
+dogma
 doing
 dolly
 donor
@@ -326,6 +333,7 @@ dwell
 dwelt
 early
 earth
+easel
 ebony
 edict
 egret
@@ -354,6 +362,7 @@ ether
 ethic
 ethos
 evade
+event
 every
 evoke
 exact
@@ -375,6 +384,7 @@ feign
 feral
 ferry
 fewer
+fiber
 field
 fiend
 fifty
@@ -405,6 +415,7 @@ flora
 floss
 flour
 flout
+flown
 fluff
 flume
 flunk
@@ -422,6 +433,7 @@ forth
 forty
 found
 foyer
+frail
 frame
 frank
 fresh
@@ -431,6 +443,7 @@ frond
 front
 frost
 froth
+frown
 froze
 fully
 fungi
@@ -461,8 +474,10 @@ glory
 glove
 glyph
 gnash
+going
 golem
 goner
+goofy
 goose
 gorge
 gouge
@@ -518,6 +533,7 @@ hello
 hence
 heron
 hinge
+hippo
 hitch
 hoard
 hobby
@@ -547,6 +563,7 @@ inept
 inert
 infer
 inlay
+inner
 input
 inter
 intro
@@ -558,6 +575,7 @@ itchy
 ivory
 jaunt
 jazzy
+jelly
 jerky
 jiffy
 joint
@@ -634,8 +652,8 @@ magic
 magma
 maize
 major
-mania
 manga
+mania
 manly
 manor
 maple
@@ -646,6 +664,7 @@ mason
 masse
 match
 matey
+mauve
 maxim
 maybe
 mayor
@@ -702,6 +721,7 @@ neigh
 nerdy
 never
 nicer
+niche
 night
 ninja
 ninth
@@ -711,6 +731,7 @@ north
 nymph
 occur
 ocean
+octet
 offal
 often
 older
@@ -741,6 +762,7 @@ patty
 pause
 peace
 peach
+pearl
 penne
 perch
 perky
@@ -786,6 +808,7 @@ prick
 pride
 prime
 primo
+primp
 print
 prior
 prize
@@ -820,6 +843,7 @@ range
 ratio
 rayon
 react
+ready
 realm
 rebel
 rebus
@@ -840,8 +864,8 @@ retry
 revel
 rhino
 rhyme
-ridge
 rider
+ridge
 right
 riper
 risen
@@ -867,6 +891,7 @@ salad
 sally
 salsa
 salty
+sandy
 sassy
 saucy
 saute
@@ -912,6 +937,7 @@ shire
 shirk
 shore
 shorn
+shout
 shown
 showy
 shrub
@@ -921,6 +947,7 @@ siege
 sight
 since
 sissy
+sixth
 skate
 skier
 skiff
@@ -928,6 +955,7 @@ skill
 skimp
 skirt
 skunk
+slang
 slate
 sleek
 sleep
@@ -956,6 +984,7 @@ snaky
 snare
 snarl
 sneak
+snoop
 snort
 snout
 soggy
@@ -978,9 +1007,11 @@ spicy
 spiel
 spike
 spill
+spine
 spire
 splat
 spoke
+spoon
 spout
 spray
 spurt
@@ -1012,6 +1043,7 @@ sting
 stink
 stint
 stock
+stoic
 stole
 stomp
 stone
@@ -1036,6 +1068,7 @@ sushi
 sweat
 sweep
 sweet
+swell
 swill
 swine
 swirl
@@ -1046,7 +1079,9 @@ syrup
 table
 taboo
 tacit
+tacky
 taken
+tally
 talon
 tangy
 taper
@@ -1117,10 +1152,12 @@ trite
 troll
 trope
 trove
+truly
 truss
 trust
 truth
 tryst
+tunic
 tutor
 twang
 tweak
@@ -1128,6 +1165,7 @@ tweed
 twice
 twine
 twirl
+twist
 ulcer
 ultra
 uncle
@@ -1150,6 +1188,7 @@ using
 usual
 usurp
 utter
+uvula
 vague
 valet
 valid
@@ -1161,8 +1200,10 @@ verge
 verve
 video
 vigor
+vinyl
 viola
 viral
+visor
 vital
 vivid
 vodka
@@ -1177,6 +1218,7 @@ waste
 watch
 weary
 wedge
+weird
 whack
 whale
 wheel
@@ -1193,6 +1235,7 @@ whoop
 widen
 wince
 windy
+witch
 woken
 woman
 wooer
@@ -1204,6 +1247,7 @@ worst
 would
 woven
 wrath
+wreak
 wrist
 write
 wrong

@@ -47,5 +47,5 @@ whelper is built with Xcode for MacOS. To build it,
 
 ## Acknowledgements
 Thanks to Mikey Ward, author of *Swift Programming: The Big Nerd Ranch Guide*. whelper is based on
-wordlasso from his book. Thanks to Garrett Sholtes who published a [wordle solution list](https://gist.github.com/scholtes/94f3c0303ba6a7768b47583aff36654d)
-that is the basis for whelper's dictionary. Thanks to the folks at [RockPaperShotgun](https://rockpapershotgun.com) for their list of previous solutions.
+wordlasso from his book. Thanks to Garrett Sholtes who published a [wordle solution list](https://gist.github.com/scholtes/94f3c0303ba6a7768b47583aff36654d).
+It is the basis for whelper's dictionary of possible solutions. Thanks to the folks at [RockPaperShotgun](https://rockpapershotgun.com) for their list of previous solutions.
