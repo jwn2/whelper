@@ -2,7 +2,9 @@
 MacOS command-line utility to suggest solutions to a Wordle puzzle.
 
 whelper compares its dictionary of possible wordle solutions against a template supplied by the user.
-The template is a pattern of letters where a dot '.' represents any character. See sample invocations
+The template is a pattern of letters where a dot '.' represents any character. After finding possible
+solutions, whelper compares that list to a dictionary of past solutions, eliminating words that have already
+solved Worlde. As far as I know, the New York Times doesn't repeat solutions. See sample invocations
 below. The utility has several options for its use,
 
     % whelper -h
@@ -19,7 +21,8 @@ whelper is built with Xcode for MacOS. To build it,
 3. Open the Build Products folder in the Finder
 4. Copy 'Products/Release/whelper' to '~/bin/'
 5. Copy wordle-La.txt to '~/bin/'
-6. Create an alias in '.zshrc':
+6. Copy wordle-Sa.txt to '~/bin/'
+7. Create an alias in '.zshrc':
     "whelper='~/bin/whelper'"
 
 ## Sample invocations
@@ -46,9 +49,11 @@ whelper is built with Xcode for MacOS. To build it,
 
 ## Possible improvements
 1. A MVC redesign with a Swift UI view.
-2. Keep of list of past solutions and eliminate them from the list returned.
+2. Add an -update switch to add a list of past solutions to wordle-Sa.txt
    
 ## Acknowledgements
 Thanks to Mikey Ward, author of *Swift Programming: The Big Nerd Ranch Guide*. whelper is based on
-wordlasso from his book. Thanks to Garrett Sholtes who published a [wordle solution list](https://gist.github.com/scholtes/94f3c0303ba6a7768b47583aff36654d)
-that is the basis for whelper's solutions dictionary
+wordlasso from his book. Thanks to Garrett Sholtes who published a [wordle dictionary](https://gist.github.com/scholtes/94f3c0303ba6a7768b47583aff36654d). It
+ is the basis for whelper's possible solutions dictionary. Thanks to the folks at [RockPaperShotgun](https://rockpapershotgun.com) who daily update the list of
+ past solutions.
+ 
