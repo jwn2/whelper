@@ -49,7 +49,7 @@ whelper is built with Xcode for MacOS. To build it,
 
 ## Possible improvements
 1. A MVC redesign with a Swift UI view.
-2. Keep of list of past solutions and eliminate them from the list returned.
+2. Add an -update switch to add a list of past solutions to wordle-Sa.txt
    
 ## Acknowledgements
 Thanks to Mikey Ward, author of *Swift Programming: The Big Nerd Ranch Guide*. whelper is based on
