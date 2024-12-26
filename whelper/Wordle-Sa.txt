@@ -17,6 +17,7 @@ adobe
 adopt
 adore
 adult
+affix
 after
 again
 agape
@@ -116,6 +117,7 @@ biome
 birch
 birth
 black
+blade
 blame
 bland
 blare
@@ -132,6 +134,7 @@ bluff
 blurb
 blurt
 blush
+boast
 booby
 boost
 booze
@@ -139,6 +142,7 @@ boozy
 borax
 bossy
 bough
+boxer
 brace
 braid
 brain
@@ -147,6 +151,7 @@ brash
 brass
 brave
 bravo
+brawn
 bread
 break
 breed
@@ -164,6 +169,7 @@ broke
 brook
 broom
 broth
+brown
 brush
 brute
 buddy
@@ -213,6 +219,7 @@ chief
 child
 chill
 chime
+chock
 choir
 choke
 chord
@@ -277,6 +284,7 @@ crown
 crumb
 crush
 crust
+crypt
 cumin
 curly
 cynic
@@ -307,6 +315,7 @@ dingo
 disco
 ditto
 dodge
+dogma
 doing
 dolly
 donor
@@ -320,6 +329,7 @@ dream
 drink
 drive
 droll
+drool
 droop
 drove
 duchy
@@ -328,6 +338,7 @@ duvet
 dwarf
 dwell
 dwelt
+eagle
 early
 earth
 easel
@@ -342,6 +353,7 @@ email
 ember
 empty
 enact
+endow
 enema
 enjoy
 ennui
@@ -399,6 +411,7 @@ flake
 flame
 flank
 flare
+flash
 flask
 flesh
 flick
@@ -415,6 +428,7 @@ flout
 flown
 fluff
 flume
+flung
 flunk
 flyer
 focal
@@ -444,6 +458,7 @@ frown
 froze
 fully
 fungi
+funky
 funny
 gamer
 gamma
@@ -506,6 +521,7 @@ guard
 guest
 guide
 guild
+guile
 gully
 gummy
 guppy
@@ -524,12 +540,15 @@ heart
 heath
 heave
 heavy
+hefty
 heist
 helix
 hello
 hence
 heron
+hilly
 hinge
+hippo
 hitch
 hoard
 hobby
@@ -549,6 +568,7 @@ hunch
 hunky
 hurry
 hutch
+hyena
 hyper
 igloo
 image
@@ -571,6 +591,7 @@ itchy
 ivory
 jaunt
 jazzy
+jelly
 jerky
 jiffy
 joint
@@ -647,8 +668,8 @@ magic
 magma
 maize
 major
-mania
 manga
+mania
 manly
 manor
 maple
@@ -659,6 +680,7 @@ mason
 masse
 match
 matey
+mauve
 maxim
 maybe
 mayor
@@ -752,10 +774,12 @@ parer
 parry
 party
 pasta
+patio
 patty
 pause
 peace
 peach
+pearl
 penne
 perch
 perky
@@ -786,6 +810,7 @@ plate
 plaza
 pleat
 pluck
+plumb
 plunk
 point
 poise
@@ -887,6 +912,7 @@ salty
 sandy
 sassy
 saucy
+sauna
 saute
 savor
 scald
@@ -902,6 +928,7 @@ scope
 scorn
 scour
 scout
+scowl
 scram
 scrap
 scrub
@@ -915,11 +942,13 @@ sever
 shade
 shaft
 shake
+shaky
 shall
 shame
 shank
 shape
 shard
+share
 sharp
 shave
 shawl
@@ -931,6 +960,7 @@ shirk
 shore
 shorn
 shout
+shove
 shown
 showy
 shrub
@@ -948,6 +978,7 @@ skill
 skimp
 skirt
 skunk
+slang
 slate
 sleek
 sleep
@@ -999,6 +1030,7 @@ spicy
 spiel
 spike
 spill
+spine
 spire
 splat
 spoke
@@ -1047,6 +1079,7 @@ stout
 stove
 strap
 straw
+stray
 study
 stung
 style
@@ -1148,14 +1181,15 @@ truss
 trust
 truth
 tryst
-tutor
 tunic
+tutor
 twang
 tweak
 tweed
 twice
 twine
 twirl
+twist
 ulcer
 ultra
 uncle
@@ -1201,6 +1235,7 @@ voice
 voila
 voter
 vouch
+vying
 wacky
 wagon
 waltz
@@ -1225,6 +1260,7 @@ whoop
 widen
 wince
 windy
+witch
 woken
 woman
 wooer
