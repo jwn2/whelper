@@ -21,7 +21,8 @@ whelper is built with Xcode for MacOS. To build it,
 3. Open the Build Products folder in the Finder
 4. Copy 'Products/Release/whelper' to '~/bin/'
 5. Copy wordle-La.txt to '~/bin/'
-6. Create an alias in '.zshrc':
+6. Copy wordle-Sa.txt to '~/bin/'
+7. Create an alias in '.zshrc':
     "whelper='~/bin/whelper'"
 
 ## Sample invocations
@@ -48,7 +49,7 @@ whelper is built with Xcode for MacOS. To build it,
 
 ## Possible improvements
 1. A MVC redesign with a Swift UI view.
-2. Keep of list of past solutions and eliminate them from the list returned.
+2. Add an -update switch to add a list of past solutions to wordle-Sa.txt
    
 ## Acknowledgements
 Thanks to Mikey Ward, author of *Swift Programming: The Big Nerd Ranch Guide*. whelper is based on

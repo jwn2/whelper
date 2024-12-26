@@ -1183,6 +1183,8 @@ truth
 tryst
 tunic
 tutor
+tunic
+tutor
 twang
 tweak
 tweed
