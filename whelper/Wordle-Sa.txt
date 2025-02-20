@@ -68,6 +68,7 @@ ascot
 aside
 askew
 asset
+atlas
 atoll
 atone
 audio
@@ -135,6 +136,7 @@ blurb
 blurt
 blush
 boast
+bonus
 booby
 boost
 booze
@@ -211,6 +213,7 @@ chaos
 chard
 charm
 chart
+cheap
 cheat
 cheek
 cheer
@@ -223,6 +226,8 @@ chock
 choir
 choke
 chord
+chore
+chose
 chunk
 chute
 cider
@@ -238,6 +243,7 @@ clerk
 click
 climb
 cling
+cloak
 clock
 clone
 close
@@ -269,15 +275,19 @@ crank
 crass
 crate
 crave
+crawl
 craze
 crazy
 creak
 credo
+crepe
 crept
 crime
 crimp
+crisp
 croak
 crone
+crook
 cross
 crowd
 crown
@@ -287,6 +297,7 @@ crust
 crypt
 cumin
 curly
+cyber
 cynic
 daddy
 daisy
@@ -299,6 +310,7 @@ debut
 decal
 decay
 decoy
+decry
 delay
 delta
 delve
@@ -312,8 +324,10 @@ dicey
 digit
 diner
 dingo
+dingy
 disco
 ditto
+ditty
 dodge
 dogma
 doing
@@ -323,6 +337,7 @@ donut
 doubt
 dowry
 dozen
+draft
 drain
 drawn
 dream
@@ -385,6 +400,8 @@ exult
 facet
 faint
 faith
+false
+fancy
 farce
 fault
 favor
@@ -392,6 +409,7 @@ feast
 feign
 feral
 ferry
+fever
 fewer
 fiber
 field
@@ -416,6 +434,7 @@ flask
 flesh
 flick
 fling
+flint
 flirt
 float
 flock
@@ -489,6 +508,7 @@ gnash
 going
 golem
 goner
+goody
 goofy
 goose
 gorge
@@ -496,6 +516,7 @@ gouge
 grace
 grade
 grail
+grain
 grand
 grant
 graph
@@ -570,11 +591,13 @@ hurry
 hutch
 hyena
 hyper
+icing
 igloo
 image
 impel
 inane
 index
+indie
 inept
 inert
 infer
@@ -606,6 +629,7 @@ kazoo
 kebab
 khaki
 kiosk
+knack
 knave
 knead
 kneel
@@ -635,6 +659,7 @@ leech
 leery
 leggy
 lemon
+lemur
 libel
 light
 lilac
@@ -668,6 +693,7 @@ magic
 magma
 maize
 major
+mambo
 manga
 mania
 manly
@@ -735,6 +761,7 @@ naval
 needy
 neigh
 nerdy
+nerve
 never
 nicer
 niche
@@ -780,6 +807,7 @@ pause
 peace
 peach
 pearl
+pedal
 penne
 perch
 perky
@@ -833,6 +861,7 @@ prize
 probe
 prone
 prong
+prose
 proud
 prove
 prowl
@@ -840,6 +869,7 @@ proxy
 prune
 psalm
 pulpy
+pupil
 purge
 qualm
 quart
@@ -858,8 +888,10 @@ raise
 ramen
 ranch
 range
+rapid
 ratio
 rayon
+reach
 react
 ready
 realm
@@ -870,6 +902,7 @@ recap
 recur
 refer
 regal
+relax
 relic
 renew
 repay
@@ -880,6 +913,7 @@ retch
 retro
 retry
 revel
+revue
 rhino
 rhyme
 rider
@@ -888,6 +922,7 @@ right
 riper
 risen
 rival
+rivet
 robin
 robot
 rocky
@@ -899,9 +934,11 @@ round
 rouse
 route
 rover
+rower
 royal
 ruddy
 ruder
+rumba
 rupee
 rusty
 saint
@@ -925,6 +962,7 @@ scoff
 scold
 scone
 scope
+score
 scorn
 scour
 scout
@@ -965,9 +1003,11 @@ shown
 showy
 shrub
 shrug
+shunt
 shyly
 siege
 sight
+silly
 since
 sissy
 sixth
@@ -1037,9 +1077,11 @@ spoke
 spoon
 spout
 spray
+sprig
 spurt
 squad
 squat
+squid
 staff
 stage
 staid
@@ -1049,6 +1091,7 @@ stake
 stale
 stall
 stand
+stare
 stark
 start
 stash
@@ -1057,6 +1100,7 @@ stead
 steam
 steed
 steel
+steep
 stein
 stern
 stick
@@ -1083,12 +1127,15 @@ stray
 study
 stung
 style
+suave
 sugar
 sulky
+sunny
 super
 surer
 surly
 sushi
+swath
 sweat
 sweep
 sweet
@@ -1149,12 +1196,15 @@ tipsy
 titan
 tithe
 title
+toast
 today
 tonic
+tooth
 topaz
 topic
 torch
 torso
+total
 totem
 touch
 tough
@@ -1164,6 +1214,7 @@ toxin
 trace
 tract
 trade
+trail
 train
 trait
 trash
@@ -1183,8 +1234,6 @@ truth
 tryst
 tunic
 tutor
-tunic
-tutor
 twang
 tweak
 tweed
@@ -1192,6 +1241,7 @@ twice
 twine
 twirl
 twist
+udder
 ulcer
 ultra
 uncle
@@ -1206,6 +1256,7 @@ unmet
 untie
 until
 unzip
+upper
 upset
 urban
 usage
@@ -1239,6 +1290,7 @@ voter
 vouch
 vying
 wacky
+wafer
 wagon
 waltz
 waste
