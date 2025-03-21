@@ -31,6 +31,7 @@ agree
 ahead
 aisle
 album
+alert
 alien
 alike
 alive
@@ -77,6 +78,7 @@ avail
 avert
 await
 awake
+award
 awash
 awful
 axiom
@@ -91,6 +93,7 @@ banal
 barge
 basic
 basin
+baste
 bathe
 baton
 batty
@@ -213,8 +216,10 @@ chaos
 chard
 charm
 chart
+chase
 cheap
 cheat
+check
 cheek
 cheer
 chest
@@ -249,6 +254,7 @@ clone
 close
 cloth
 cloud
+clove
 clown
 cluck
 coach
@@ -279,6 +285,7 @@ crawl
 craze
 crazy
 creak
+cream
 credo
 crepe
 crept
@@ -311,6 +318,7 @@ decal
 decay
 decoy
 decry
+deity
 delay
 delta
 delve
@@ -347,6 +355,7 @@ droll
 drool
 droop
 drove
+dryer
 duchy
 dutch
 duvet
@@ -479,6 +488,7 @@ fully
 fungi
 funky
 funny
+fuzzy
 gamer
 gamma
 gamut
@@ -493,6 +503,7 @@ giant
 giddy
 girth
 given
+gland
 glass
 glaze
 gleam
@@ -523,6 +534,7 @@ graph
 grasp
 grate
 great
+greed
 green
 greet
 grief
@@ -580,6 +592,7 @@ horse
 hotel
 hound
 house
+hover
 howdy
 human
 humid
@@ -639,6 +652,7 @@ knoll
 koala
 label
 labor
+ladle
 lager
 lanky
 lapel
@@ -646,6 +660,7 @@ lapse
 large
 larva
 laser
+lasso
 latte
 layer
 leafy
@@ -671,6 +686,7 @@ lithe
 liver
 local
 locus
+lodge
 lofty
 logic
 loopy
@@ -689,12 +705,14 @@ lusty
 lying
 macaw
 madam
+madly
 magic
 magma
 maize
 major
 mambo
 manga
+mango
 mania
 manly
 manor
@@ -758,6 +776,7 @@ nanny
 nasty
 natal
 naval
+navel
 needy
 neigh
 nerdy
@@ -771,6 +790,7 @@ ninth
 noble
 noise
 north
+nudge
 nymph
 occur
 ocean
@@ -785,6 +805,7 @@ opera
 order
 organ
 other
+otter
 ought
 ounce
 outdo
@@ -818,6 +839,7 @@ phony
 photo
 piano
 picky
+piece
 piety
 pilot
 pinch
@@ -923,6 +945,7 @@ riper
 risen
 rival
 rivet
+roach
 robin
 robot
 rocky
@@ -970,6 +993,7 @@ scowl
 scram
 scrap
 scrub
+scrum
 sedan
 seedy
 sense
@@ -1059,7 +1083,9 @@ sound
 sower
 space
 spade
+spark
 speak
+spear
 speck
 spell
 spelt
@@ -1072,6 +1098,7 @@ spike
 spill
 spine
 spire
+spite
 splat
 spoke
 spoon
@@ -1090,6 +1117,7 @@ stair
 stake
 stale
 stall
+stamp
 stand
 stare
 stark
@@ -1192,6 +1220,7 @@ tibia
 tidal
 tiger
 tilde
+timer
 tipsy
 titan
 tithe
@@ -1212,6 +1241,7 @@ towel
 toxic
 toxin
 trace
+track
 tract
 trade
 trail
@@ -1225,6 +1255,7 @@ triad
 trice
 trite
 troll
+troop
 trope
 trove
 truly
