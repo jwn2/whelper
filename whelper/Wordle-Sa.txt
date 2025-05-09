@@ -12,6 +12,7 @@ actor
 acute
 adage
 adapt
+adept
 admit
 adobe
 adopt
@@ -68,6 +69,7 @@ ardor
 argue
 aroma
 arrow
+artsy
 ascot
 ashen
 aside
@@ -92,6 +94,7 @@ badge
 badly
 bagel
 baker
+balmy
 balsa
 banal
 barge
@@ -134,6 +137,7 @@ bleak
 bleed
 bleep
 blimp
+bliss
 block
 bloke
 blond
@@ -245,6 +249,7 @@ cigar
 cinch
 circa
 civic
+clash
 class
 clean
 clear
@@ -366,6 +371,7 @@ droop
 drove
 dryer
 duchy
+dummy
 dutch
 duvet
 dwarf
@@ -508,6 +514,7 @@ gaunt
 gauze
 gawky
 gecko
+genie
 genre
 ghoul
 giant
@@ -617,6 +624,7 @@ hutch
 hyena
 hyper
 icing
+idler
 igloo
 image
 impel
@@ -663,6 +671,7 @@ kneel
 knelt
 knock
 knoll
+known
 koala
 krill
 label
@@ -720,6 +729,7 @@ lunge
 lusty
 lying
 macaw
+macho
 madam
 madly
 magic
@@ -831,6 +841,7 @@ outer
 overt
 owner
 oxide
+ozone
 paint
 panel
 panic
@@ -840,7 +851,9 @@ parer
 parry
 party
 pasta
+patch
 patio
+patsy
 patty
 pause
 peace
@@ -1050,6 +1063,7 @@ showy
 shrub
 shrug
 shunt
+shush
 shyly
 siege
 sight
@@ -1108,6 +1122,7 @@ space
 spade
 spare
 spark
+spate
 speak
 spear
 speck
@@ -1182,6 +1197,7 @@ stung
 style
 suave
 sugar
+suite
 sulky
 sunny
 super
@@ -1282,6 +1298,7 @@ trite
 troll
 troop
 trope
+trout
 trove
 truly
 truss
@@ -1356,6 +1373,7 @@ waste
 watch
 weary
 wedge
+weedy
 weird
 whack
 whale
@@ -1371,6 +1389,7 @@ whiny
 whirl
 whisk
 whoop
+whose
 widen
 wince
 windy
