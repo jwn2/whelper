@@ -13,6 +13,7 @@ acute
 adage
 adapt
 adept
+admin
 admit
 adobe
 adopt
@@ -126,6 +127,7 @@ berth
 beset
 bevel
 bicep
+bilge
 binge
 biome
 birch
@@ -149,6 +151,7 @@ bluff
 blurb
 blurt
 blush
+board
 boast
 bongo
 bonus
@@ -220,6 +223,7 @@ catch
 cater
 caulk
 cause
+cease
 cedar
 chafe
 chain
@@ -327,6 +331,7 @@ daddy
 daisy
 dance
 dandy
+datum
 death
 debit
 debug
@@ -374,6 +379,7 @@ drive
 droll
 drool
 droop
+drone
 drove
 dryer
 duchy
@@ -390,6 +396,7 @@ earth
 easel
 ebony
 edict
+edify
 egret
 eject
 elbow
@@ -525,6 +532,7 @@ gawky
 gecko
 genie
 genre
+ghost
 ghoul
 giant
 giddy
@@ -588,6 +596,7 @@ gully
 gummy
 guppy
 gusty
+habit
 hairy
 halve
 handy
@@ -635,6 +644,7 @@ hutch
 hyena
 hyper
 icing
+idiom
 idler
 igloo
 image
@@ -703,6 +713,7 @@ leafy
 leaky
 leapt
 learn
+lease
 leash
 leave
 ledge
@@ -897,6 +908,7 @@ pithy
 pixel
 pixie
 place
+plaid
 plait
 plank
 plant
@@ -909,11 +921,13 @@ plunk
 point
 poise
 poker
+polar
 polka
 polyp
 porch
 pound
 power
+preen
 press
 price
 prick
@@ -937,8 +951,10 @@ psalm
 pulpy
 pupil
 purge
+quail
 qualm
 quart
+quash
 queen
 query
 quest
@@ -979,6 +995,7 @@ resin
 retch
 retro
 retry
+reuse
 revel
 revue
 rhino
@@ -998,6 +1015,7 @@ rodeo
 rogue
 roomy
 rouge
+rough
 round
 rouse
 route
@@ -1155,6 +1173,7 @@ spite
 splat
 spoke
 spoon
+sport
 spout
 spray
 sprig
@@ -1235,6 +1254,7 @@ table
 taboo
 tacit
 tacky
+taffy
 taken
 tally
 talon
@@ -1375,6 +1395,7 @@ viral
 visor
 vital
 vivid
+vixen
 vodka
 voice
 voila
