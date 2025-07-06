@@ -142,6 +142,7 @@ bleak
 bleed
 bleep
 blimp
+blink
 bliss
 block
 bloke
@@ -281,6 +282,7 @@ coast
 cocoa
 colon
 comet
+comfy
 comma
 condo
 conic
@@ -323,8 +325,10 @@ crush
 crust
 crypt
 cumin
+curio
 curly
 curse
+curve
 cyber
 cynic
 daddy
@@ -401,6 +405,7 @@ egret
 eject
 elbow
 elder
+elite
 elope
 elude
 email
@@ -538,6 +543,7 @@ giant
 giddy
 girth
 given
+glade
 gland
 glass
 glaze
@@ -651,6 +657,7 @@ image
 impel
 inane
 inbox
+incur
 index
 indie
 inept
@@ -801,6 +808,7 @@ model
 modem
 moist
 molar
+moldy
 mommy
 money
 month
@@ -817,6 +825,7 @@ movie
 mucky
 mulch
 mummy
+munch
 mural
 mushy
 music
@@ -846,7 +855,9 @@ nymph
 occur
 ocean
 octet
+oddly
 offal
+offer
 often
 older
 olive
@@ -887,6 +898,7 @@ penne
 perch
 perky
 pesky
+petty
 phase
 phone
 phony
@@ -909,6 +921,7 @@ pixel
 pixie
 place
 plaid
+plain
 plait
 plank
 plant
@@ -924,9 +937,11 @@ poker
 polar
 polka
 polyp
+poppy
 porch
 pound
 power
+prank
 preen
 press
 price
@@ -1226,6 +1241,7 @@ strap
 straw
 stray
 study
+stump
 stung
 style
 suave
@@ -1265,6 +1281,7 @@ tardy
 taste
 tasty
 taunt
+taupe
 tawny
 teach
 teary
@@ -1288,6 +1305,7 @@ those
 three
 threw
 throw
+thrum
 thumb
 thump
 thyme
@@ -1431,6 +1449,7 @@ widen
 wince
 windy
 witch
+witty
 woken
 woman
 wooer
