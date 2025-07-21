@@ -1435,6 +1435,7 @@ peach
 pearl
 pecan
 pedal
+peeve
 penal
 pence
 penne
@@ -1519,6 +1520,7 @@ pride
 pried
 prime
 primo
+primp
 print
 prior
 prism
@@ -2120,6 +2122,7 @@ tight
 tilde
 timer
 timid
+tinge
 tipsy
 titan
 tithe
@@ -2380,5 +2383,3 @@ yummy
 zebra
 zesty
 zonal
-peeve
-primp
