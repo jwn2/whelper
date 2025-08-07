@@ -76,6 +76,7 @@ ascot
 ashen
 aside
 askew
+assay
 asset
 atlas
 atoll
@@ -102,6 +103,7 @@ baler
 balmy
 balsa
 banal
+banjo
 barge
 basic
 basin
@@ -208,6 +210,7 @@ bulky
 bully
 bunch
 burly
+burnt
 cable
 cacao
 cache
@@ -340,6 +343,7 @@ daisy
 dance
 dandy
 datum
+daunt
 death
 debit
 debug
@@ -386,9 +390,9 @@ dream
 drink
 drive
 droll
-drone
 drool
 droop
+drone
 drove
 dryer
 duchy
@@ -522,6 +526,7 @@ frame
 frank
 fresh
 fried
+frill
 frock
 frond
 front
@@ -565,6 +570,7 @@ glove
 glyph
 gnash
 gnome
+gofer
 going
 golem
 goner
@@ -592,6 +598,7 @@ grime
 grimy
 grind
 gripe
+groan
 groin
 groom
 group
@@ -618,6 +625,7 @@ happy
 harsh
 hatch
 hater
+haunt
 havoc
 hazel
 heady
@@ -763,6 +771,7 @@ lowly
 loyal
 lucid
 lucky
+lumpy
 lunar
 lunch
 lunge
@@ -874,6 +883,7 @@ offer
 often
 older
 olive
+omega
 onion
 onset
 opera
@@ -980,6 +990,7 @@ pulpy
 pupil
 purge
 quail
+quake
 qualm
 quart
 quash
@@ -1031,6 +1042,7 @@ rhyme
 rider
 ridge
 right
+rigid
 riper
 risen
 rival
@@ -1066,6 +1078,7 @@ saucy
 sauna
 saute
 savor
+savvy
 scald
 scale
 scant
@@ -1247,6 +1260,7 @@ stony
 stood
 stool
 store
+stork
 storm
 story
 stout
@@ -1334,6 +1348,7 @@ tipsy
 titan
 tithe
 title
+tizzy
 toast
 today
 tonic
@@ -1442,6 +1457,7 @@ wagon
 waltz
 waste
 watch
+water
 weary
 wedge
 weedy
@@ -1459,6 +1475,7 @@ whine
 whiny
 whirl
 whisk
+whole
 whoop
 whose
 widen

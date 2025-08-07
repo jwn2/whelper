@@ -25,12 +25,12 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		F109E2452CC9D0A3002E9497 /* wordle-Sa.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "wordle-Sa.txt"; sourceTree = "<group>"; };
 		F11A20B42BDB024D00A22682 /* wordle-Ta.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "wordle-Ta.txt"; sourceTree = "<group>"; };
 		F11C731C2A2EAB5A006FD8D4 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.markdown; };
 		F1B3CFFC2A26A10C003E96E2 /* wordle-La.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "wordle-La.txt"; sourceTree = "<group>"; };
 		F1B6227E2A280A1A00258CA1 /* wordle-La.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "wordle-La.txt"; sourceTree = "<group>"; };
 		F1B622812A280A8800258CA1 /* License.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = License.txt; sourceTree = "<group>"; };
+		F1C0246E2E452F01009FF2C6 /* wordle-Sa.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "wordle-Sa.txt"; sourceTree = "<group>"; };
 		F1CE018F2A1AF4E3004FB6DA /* whelper */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = whelper; sourceTree = BUILT_PRODUCTS_DIR; };
 		F1CE01922A1AF4E3004FB6DA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		F1CE01992A1AF607004FB6DA /* WordFinder.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WordFinder.swift; sourceTree = "<group>"; };
@@ -70,7 +70,7 @@
 				F1B3CFFC2A26A10C003E96E2 /* wordle-La.txt */,
 				F1CE01992A1AF607004FB6DA /* WordFinder.swift */,
 				F1CE01922A1AF4E3004FB6DA /* main.swift */,
-				F109E2452CC9D0A3002E9497 /* wordle-Sa.txt */,
+				F1C0246E2E452F01009FF2C6 /* wordle-Sa.txt */,
 				F1B622812A280A8800258CA1 /* License.txt */,
 				F1B6227E2A280A1A00258CA1 /* wordle-La.txt */,
 				F11A20B42BDB024D00A22682 /* wordle-Ta.txt */,
