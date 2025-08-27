@@ -56,6 +56,7 @@ anger
 angle
 angry
 angst
+annex
 anode
 antic
 anvil
@@ -293,6 +294,7 @@ comfy
 comma
 condo
 conic
+coral
 corer
 corny
 could
@@ -390,9 +392,9 @@ dream
 drink
 drive
 droll
+drone
 drool
 droop
-drone
 drove
 dryer
 duchy
@@ -449,6 +451,7 @@ exert
 exile
 exist
 expel
+extol
 extra
 exult
 facet
@@ -670,6 +673,7 @@ idiom
 idler
 igloo
 image
+imbue
 impel
 inane
 inbox
@@ -688,6 +692,7 @@ ionic
 irate
 irony
 islet
+issue
 itchy
 ivory
 jaunt
@@ -707,12 +712,14 @@ karma
 kayak
 kazoo
 kebab
+kefir
 khaki
 kiosk
 knack
 knave
 knead
 kneel
+knell
 knelt
 knock
 knoll
@@ -746,6 +753,7 @@ leery
 leggy
 lemon
 lemur
+level
 libel
 light
 lilac
@@ -756,6 +764,7 @@ lingo
 lithe
 liver
 livid
+llama
 local
 locus
 lodge
@@ -765,6 +774,7 @@ loopy
 loris
 loser
 louse
+lousy
 lover
 lower
 lowly
@@ -799,6 +809,7 @@ mason
 masse
 match
 matey
+matte
 mauve
 maxim
 maybe
@@ -822,7 +833,9 @@ midst
 mimic
 mince
 miner
+minty
 minus
+mirth
 modal
 model
 modem
@@ -852,6 +865,7 @@ music
 musty
 naive
 nanny
+nasal
 nasty
 natal
 naval
@@ -869,6 +883,7 @@ ninja
 ninth
 noble
 noise
+nomad
 north
 novel
 nudge
@@ -1012,6 +1027,7 @@ ranch
 range
 rapid
 ratio
+ratty
 rayon
 reach
 react
@@ -1060,6 +1076,7 @@ round
 rouse
 route
 rover
+rowdy
 rower
 royal
 ruddy
@@ -1190,6 +1207,7 @@ solve
 sonic
 sorry
 sound
+south
 sower
 space
 spade
@@ -1214,6 +1232,7 @@ spite
 splat
 spoke
 spoon
+spore
 sport
 spout
 spray
@@ -1409,6 +1428,7 @@ undue
 unfed
 unfit
 unify
+union
 unite
 unlit
 unmet
