@@ -414,6 +414,7 @@ edict
 edify
 egret
 eject
+elate
 elbow
 elder
 elite
@@ -584,6 +585,7 @@ gorge
 gouge
 grace
 grade
+graft
 grail
 grain
 grand
@@ -746,6 +748,7 @@ leapt
 learn
 lease
 leash
+least
 leave
 ledge
 leech
@@ -830,6 +833,7 @@ metro
 micro
 midge
 midst
+might
 mimic
 mince
 miner
@@ -936,6 +940,7 @@ penne
 perch
 perky
 pesky
+petal
 petty
 phase
 phone
@@ -1230,6 +1235,7 @@ spine
 spire
 spite
 splat
+split
 spoke
 spoon
 spore
@@ -1381,6 +1387,7 @@ totem
 touch
 tough
 towel
+tower
 toxic
 toxin
 trace
