@@ -41,6 +41,7 @@ alive
 allow
 aloft
 alone
+along
 aloof
 aloud
 alpha
@@ -51,12 +52,14 @@ amber
 amble
 amiss
 ample
+amuse
 angel
 anger
 angle
 angry
 angst
 annex
+annoy
 anode
 antic
 anvil
@@ -156,6 +159,7 @@ bloke
 blond
 blown
 bluff
+blunt
 blurb
 blurt
 blush
@@ -238,6 +242,7 @@ cease
 cedar
 chafe
 chain
+chair
 chalk
 champ
 chant
@@ -256,6 +261,7 @@ chief
 child
 chill
 chime
+chirp
 chock
 choir
 choke
@@ -269,6 +275,7 @@ cigar
 cinch
 circa
 civic
+civil
 clash
 class
 clean
@@ -302,6 +309,7 @@ corny
 could
 count
 court
+coven
 cover
 covet
 cower
@@ -344,6 +352,7 @@ cyber
 cynic
 daddy
 daisy
+dally
 dance
 dandy
 datum
@@ -356,6 +365,7 @@ decal
 decay
 decoy
 decry
+defer
 deity
 delay
 delta
@@ -388,6 +398,7 @@ dowry
 dozen
 draft
 drain
+drape
 drawn
 dread
 dream
@@ -535,6 +546,7 @@ frank
 fresh
 fried
 frill
+fritz
 frock
 frond
 front
@@ -555,6 +567,7 @@ gaunt
 gauze
 gawky
 gecko
+geese
 genie
 genre
 ghost
@@ -583,6 +596,7 @@ going
 golem
 goner
 goody
+gooey
 goofy
 goose
 gorge
@@ -631,6 +645,7 @@ hairy
 halve
 handy
 happy
+hardy
 harsh
 hatch
 hater
@@ -727,6 +742,7 @@ knead
 kneel
 knell
 knelt
+knife
 knock
 knoll
 known
@@ -743,6 +759,7 @@ large
 larva
 laser
 lasso
+later
 latte
 laugh
 layer
@@ -757,10 +774,12 @@ leave
 ledge
 leech
 leery
+lefty
 leggy
 lemon
 lemur
 level
+lever
 libel
 light
 lilac
@@ -862,6 +881,7 @@ moult
 mount
 mourn
 mouse
+mouth
 movie
 mucky
 mulch
@@ -871,6 +891,7 @@ mural
 mushy
 music
 musty
+nadir
 naive
 nanny
 nasal
@@ -891,11 +912,13 @@ ninja
 ninth
 noble
 noise
+noisy
 nomad
 north
 novel
 nudge
 nurse
+nylon
 nymph
 occur
 ocean
@@ -970,6 +993,7 @@ place
 plaid
 plain
 plait
+plane
 plank
 plant
 plate
@@ -987,6 +1011,7 @@ polyp
 poppy
 porch
 pound
+pouty
 power
 prank
 preen
@@ -1024,6 +1049,7 @@ quest
 queue
 quick
 quiet
+quill
 quirk
 quite
 quota
@@ -1050,6 +1076,7 @@ recur
 refer
 regal
 relax
+relay
 relic
 renew
 repay
@@ -1222,6 +1249,7 @@ space
 spade
 spare
 spark
+spasm
 spate
 speak
 spear
@@ -1240,6 +1268,7 @@ spire
 spite
 splat
 split
+spoil
 spoke
 spoon
 spore
@@ -1251,6 +1280,7 @@ spurt
 squad
 squat
 squid
+stack
 staff
 stage
 staid
@@ -1344,6 +1374,7 @@ tawny
 teach
 teary
 tease
+teeth
 tempo
 tenor
 tenth
@@ -1363,6 +1394,7 @@ thorn
 those
 three
 threw
+throb
 throw
 thrum
 thumb
@@ -1408,6 +1440,7 @@ treat
 trend
 triad
 trice
+trick
 tripe
 trite
 troll
@@ -1511,6 +1544,7 @@ whole
 whoop
 whose
 widen
+width
 wince
 windy
 witch
