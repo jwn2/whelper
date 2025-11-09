@@ -2,6 +2,7 @@ aback
 abase
 abate
 abbey
+abhor
 abide
 about
 above
@@ -73,6 +74,7 @@ aptly
 arbor
 ardor
 argue
+arise
 aroma
 arrow
 artsy
@@ -96,6 +98,7 @@ award
 aware
 awash
 awful
+awoke
 axiom
 azure
 bacon
@@ -119,6 +122,7 @@ bawdy
 bayou
 beach
 beady
+beard
 beast
 beaut
 beefy
@@ -236,6 +240,7 @@ carry
 carve
 catch
 cater
+catty
 caulk
 cause
 cease
@@ -374,6 +379,7 @@ denim
 depot
 depth
 deter
+detox
 devil
 diary
 dicey
@@ -403,6 +409,7 @@ drawn
 dread
 dream
 drift
+drill
 drink
 drive
 droll
@@ -482,6 +489,7 @@ feign
 feral
 ferry
 fetch
+fetid
 fever
 fewer
 fiber
@@ -538,6 +546,7 @@ forgo
 forte
 forth
 forty
+forum
 found
 foyer
 frail
@@ -563,6 +572,7 @@ gamer
 gamma
 gamut
 gaudy
+gauge
 gaunt
 gauze
 gawky
@@ -578,6 +588,7 @@ girth
 given
 glade
 gland
+glare
 glass
 glaze
 gleam
@@ -624,6 +635,7 @@ gripe
 groan
 groin
 groom
+gross
 group
 grout
 grove
@@ -636,6 +648,7 @@ guest
 guide
 guild
 guile
+guise
 gully
 gummy
 guppy
@@ -650,6 +663,7 @@ harsh
 hatch
 hater
 haunt
+haven
 havoc
 hazel
 heady
@@ -670,6 +684,7 @@ hippo
 hitch
 hoard
 hobby
+holly
 homer
 honey
 horde
@@ -690,6 +705,7 @@ hutch
 hyena
 hyper
 icing
+ideal
 idiom
 idler
 igloo
@@ -760,6 +776,7 @@ larva
 laser
 lasso
 later
+lathe
 latte
 laugh
 layer
@@ -783,6 +800,7 @@ lever
 libel
 light
 lilac
+limbo
 limit
 linen
 liner
@@ -875,6 +893,7 @@ month
 moose
 moral
 mossy
+motel
 motor
 motto
 moult
@@ -965,6 +984,7 @@ pearl
 pedal
 penne
 perch
+peril
 perky
 pesky
 petal
@@ -1001,6 +1021,7 @@ plaza
 pleat
 pluck
 plumb
+plump
 plunk
 point
 poise
@@ -1054,6 +1075,7 @@ quirk
 quite
 quota
 quote
+rabid
 radio
 rainy
 raise
@@ -1181,6 +1203,7 @@ shire
 shirk
 shore
 shorn
+short
 shout
 shove
 shown
@@ -1270,6 +1293,7 @@ splat
 split
 spoil
 spoke
+spoof
 spoon
 spore
 sport
@@ -1330,6 +1354,7 @@ stray
 study
 stump
 stung
+stunt
 style
 suave
 suede
@@ -1453,6 +1478,7 @@ truss
 trust
 truth
 tryst
+tuber
 tunic
 turbo
 tutor
@@ -1497,6 +1523,7 @@ value
 vapid
 vault
 venom
+venue
 verge
 verse
 verve
@@ -1558,6 +1585,7 @@ worry
 worse
 worst
 would
+wound
 woven
 wrath
 wreak
