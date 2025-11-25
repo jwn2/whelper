@@ -220,6 +220,7 @@ bulge
 bulky
 bully
 bunch
+bunny
 burly
 burnt
 cable
@@ -281,6 +282,7 @@ cinch
 circa
 civic
 civil
+clamp
 clash
 class
 clean
@@ -299,6 +301,7 @@ cloud
 clove
 clown
 cluck
+clung
 coach
 coast
 cocoa
@@ -380,6 +383,7 @@ depot
 depth
 deter
 detox
+deuce
 devil
 diary
 dicey
@@ -563,6 +567,7 @@ frost
 froth
 frown
 froze
+fugue
 fully
 fungi
 funky
@@ -586,6 +591,7 @@ giant
 giddy
 girth
 given
+gizmo
 glade
 gland
 glare
@@ -622,6 +628,7 @@ grant
 graph
 grasp
 grate
+grave
 great
 greed
 green
@@ -829,6 +836,7 @@ lumpy
 lunar
 lunch
 lunge
+lurid
 lusty
 lying
 macaw
@@ -839,6 +847,7 @@ magic
 magma
 maize
 major
+maker
 mambo
 manga
 mango
@@ -952,6 +961,7 @@ omega
 onion
 onset
 opera
+opine
 order
 organ
 other
@@ -1379,6 +1389,7 @@ swoon
 sword
 swung
 syrup
+tabby
 table
 taboo
 tacit
@@ -1410,6 +1421,7 @@ their
 theme
 there
 these
+thick
 thief
 thigh
 thing
@@ -1431,6 +1443,7 @@ tidal
 tiger
 tilde
 timer
+tinge
 tipsy
 titan
 tithe
@@ -1542,6 +1555,7 @@ voice
 voila
 voter
 vouch
+vowel
 vying
 wacky
 wafer
@@ -1572,6 +1586,7 @@ whoop
 whose
 widen
 width
+wield
 wince
 windy
 witch
