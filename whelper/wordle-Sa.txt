@@ -52,6 +52,7 @@ amass
 amber
 amble
 amiss
+among
 ample
 amuse
 angel
@@ -226,6 +227,7 @@ burnt
 cable
 cacao
 cache
+cacti
 cadet
 camel
 cameo
@@ -305,6 +307,7 @@ clung
 coach
 coast
 cocoa
+colic
 colon
 comet
 comfy
@@ -396,6 +399,7 @@ disco
 ditto
 ditty
 dodge
+dodgy
 dogma
 doing
 dolly
@@ -403,6 +407,7 @@ donor
 donut
 dopey
 doubt
+dough
 dowel
 dowry
 dozen
@@ -459,6 +464,7 @@ epoch
 epoxy
 equal
 equip
+erase
 erode
 error
 erupt
@@ -535,6 +541,7 @@ fluff
 flume
 flung
 flunk
+flute
 flyer
 foamy
 focal
@@ -629,6 +636,7 @@ graph
 grasp
 grate
 grave
+gravy
 great
 greed
 green
@@ -649,8 +657,10 @@ grove
 growl
 grown
 gruel
+gruff
 guano
 guard
+guess
 guest
 guide
 guild
@@ -667,6 +677,7 @@ handy
 happy
 hardy
 harsh
+haste
 hatch
 hater
 haunt
@@ -699,6 +710,7 @@ horse
 hotel
 hound
 house
+hovel
 hover
 howdy
 human
@@ -787,6 +799,7 @@ lathe
 latte
 laugh
 layer
+leach
 leafy
 leaky
 leapt
@@ -890,6 +903,7 @@ miner
 minty
 minus
 mirth
+miser
 modal
 model
 modem
@@ -912,6 +926,7 @@ mouse
 mouth
 movie
 mucky
+muggy
 mulch
 mummy
 munch
@@ -1028,6 +1043,7 @@ plank
 plant
 plate
 plaza
+plead
 pleat
 pluck
 plumb
@@ -1110,6 +1126,7 @@ regal
 relax
 relay
 relic
+remit
 renew
 repay
 repel
@@ -1266,6 +1283,7 @@ snaky
 snare
 snarl
 sneak
+snide
 snoop
 snort
 snout
@@ -1383,6 +1401,7 @@ sweet
 swell
 swill
 swine
+swing
 swirl
 swish
 swoon
@@ -1486,12 +1505,14 @@ troop
 trope
 trout
 trove
+truck
 truly
 truss
 trust
 truth
 tryst
 tuber
+tulip
 tunic
 turbo
 tutor
@@ -1560,6 +1581,7 @@ vying
 wacky
 wafer
 wagon
+waist
 waltz
 waste
 watch
