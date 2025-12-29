@@ -64,6 +64,9 @@ Dictionary is newline separated list of words.
     @Option( name: .shortAndLong, help: "Wildcard letters will not match any letters in the string <exclude>")
     var exclude = ""       // default to an empty string
     
+    // -u --use <useList>
+    // <useList> is a string of letters which must all appear in possible solutions
+    
         
     mutating func run() throws {
         let wordFinder = try WordFinder(wordListPath: wordListPath, solutionsPath: solutionsPath, ignoreCase: ignoreCase)
