@@ -2,6 +2,7 @@ aback
 abase
 abate
 abbey
+abbot
 abhor
 abide
 about
@@ -116,6 +117,7 @@ barge
 basic
 basin
 baste
+batch
 bathe
 baton
 batty
@@ -312,6 +314,7 @@ colon
 comet
 comfy
 comma
+conch
 condo
 conic
 coral
@@ -607,6 +610,7 @@ glaze
 gleam
 glean
 glide
+glint
 gloat
 globe
 gloom
@@ -634,6 +638,7 @@ grand
 grant
 graph
 grasp
+grass
 grate
 grave
 gravy
@@ -934,6 +939,7 @@ mural
 mushy
 music
 musty
+myrrh
 nadir
 naive
 nanny
@@ -1071,6 +1077,7 @@ primo
 primp
 print
 prior
+prism
 prize
 probe
 prone
@@ -1097,6 +1104,7 @@ queue
 quick
 quiet
 quill
+quilt
 quirk
 quite
 quota
@@ -1166,6 +1174,7 @@ rower
 royal
 ruddy
 ruder
+rugby
 rumba
 rupee
 rusty
@@ -1202,6 +1211,7 @@ scrub
 scrum
 sedan
 seedy
+segue
 sense
 serum
 serve
@@ -1305,6 +1315,7 @@ spate
 speak
 spear
 speck
+speed
 spell
 spelt
 spend
@@ -1322,6 +1333,7 @@ split
 spoil
 spoke
 spoof
+spool
 spoon
 spore
 sport
@@ -1603,6 +1615,7 @@ whine
 whiny
 whirl
 whisk
+white
 whole
 whoop
 whose
