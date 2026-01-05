@@ -377,6 +377,7 @@ debug
 debut
 decal
 decay
+decor
 decoy
 decry
 defer
@@ -489,6 +490,7 @@ expel
 extol
 extra
 exult
+fable
 facet
 faint
 faith
@@ -577,6 +579,7 @@ frost
 froth
 frown
 froze
+fruit
 fugue
 fully
 fungi
@@ -1063,6 +1066,7 @@ polka
 polyp
 poppy
 porch
+posse
 pound
 pouty
 power
@@ -1082,6 +1086,7 @@ prize
 probe
 prone
 prong
+proof
 prose
 proud
 prove
@@ -1255,7 +1260,9 @@ siege
 sight
 silly
 since
+siren
 sissy
+sitar
 sixth
 skate
 skier
