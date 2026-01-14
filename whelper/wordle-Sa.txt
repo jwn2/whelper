@@ -153,6 +153,7 @@ blame
 bland
 blank
 blare
+blast
 blaze
 bleak
 bleed
@@ -447,6 +448,7 @@ ebony
 edict
 edify
 egret
+eight
 eject
 elate
 elbow
@@ -513,6 +515,7 @@ fiend
 fifth
 fifty
 filet
+filly
 final
 finch
 finer
@@ -675,6 +678,7 @@ guild
 guile
 guise
 gully
+gumbo
 gummy
 guppy
 gusty
@@ -873,6 +877,7 @@ mambo
 manga
 mango
 mania
+manic
 manly
 manor
 maple
@@ -984,6 +989,7 @@ olive
 omega
 onion
 onset
+oomph
 opera
 opine
 order
@@ -1015,6 +1021,7 @@ pause
 peace
 peach
 pearl
+pecan
 pedal
 penne
 perch
@@ -1100,6 +1107,7 @@ purge
 quail
 quake
 qualm
+quark
 quart
 quash
 queen
@@ -1515,6 +1523,7 @@ trawl
 treat
 trend
 triad
+trial
 trice
 trick
 tripe
