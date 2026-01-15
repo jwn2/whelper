@@ -66,13 +66,16 @@ Dictionary is newline separated list of words.
     
     // -u --use <useList>
     // <useList> is a string of letters which must all appear in possible solutions
+    @Option(name: .shortAndLong, help: "These letters must be present in possible solutions")
+    var use: String = ""
     
         
     mutating func run() throws {
         let wordFinder = try WordFinder(wordListPath: wordListPath, solutionsPath: solutionsPath, ignoreCase: ignoreCase)
         let _ = CommandLine.arguments
+        // verify that exclude and use don't overlap if they aren't both nil. If they do, that's an error. Bounce.
         if let template = template {
-            getAndPrint(for: template, using: wordFinder, limit:count, exclude: exclude)
+            getAndPrint(for: template, using: wordFinder, limit:count, exclude: exclude, use: use)
         } else {
             while true {
                 print ("Search pattern", terminator: ": ")
@@ -81,7 +84,7 @@ Dictionary is newline separated list of words.
                     fatalError("How can pattern be nil here? Unexpected exit.")
                 } else {
                     if template!.isEmpty {return}
-                    getAndPrint(for: template!, using: wordFinder, limit: count, exclude: exclude)
+                    getAndPrint(for: template!, using: wordFinder, limit: count, exclude: exclude, use: use)
                 }
             }
         }
@@ -92,8 +95,8 @@ Dictionary is newline separated list of words.
 // print no more than count matches. If there are more, prefix the list of matches with the total number found.
 // pass the exclude list to findMatches so wildcards don't match any characters that are not eligible to match.
 
-private func getAndPrint(for template: String, using wordFinder: WordFinder, limit: Int, exclude: String) {
-    let matches = wordFinder.findMatches(for: template, exclude: exclude)
+private func getAndPrint(for template: String, using wordFinder: WordFinder, limit: Int, exclude: String, use: String) {
+    let matches = wordFinder.findMatches(for: template, exclude: exclude, use: use)
     let maxMatches = (limit > 0) ? min(matches.count, limit) : matches.count // if limit is positive, use it
     if maxMatches < matches.count {
         print ("Found \(matches.count) \(matches.count == 1 ? "match" : "matches"); printing first \(maxMatches)")

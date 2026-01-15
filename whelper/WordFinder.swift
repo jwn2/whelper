@@ -40,11 +40,12 @@ struct WordFinder {
     //word must not be on the exclusion list.
     //the predicate for .allSatisfy is where the match testing takes place.
     //isMatch is used as the filtering closure argument to .filter in findMatches
-    private func isMatch(template: String, with word: String, exclude: String) -> Bool {
+    private func isMatch(template: String, with word: String, exclude: String, use: String) -> Bool {
         guard template.count == word.count else { return false }
         
         // exclude is the string parsed as the arg to the -e option or a string containing a <sp> if no -e option is given
         // on the command line.
+        // use is the string of letters that must be in any solutions
         return template.indices.allSatisfy {
             index in (template[index] == word[index] ||
                 (template[index] == WordFinder.wildcard && !exclude.contains(word[index]))
@@ -56,9 +57,12 @@ struct WordFinder {
     // using isMatch. Then it filters out any known solutions from previous puzzles.
     // The resulting list are possible solutions that haven't previously solved Wordle.
     
-        func findMatches(for template: String, exclude: String) -> [String] {
+    func findMatches(for template: String, exclude: String, use: String) -> [String] {
+        if use.count > 0 {
+            print (" \"\(use)\" must appear in the solutions")
+        }
             let allMatches = wordList.filter { candidate in
-                isMatch(template: caseCorrected(template), with: caseCorrected(candidate), exclude: caseCorrected(exclude))
+                isMatch(template: caseCorrected(template), with: caseCorrected(candidate), exclude: caseCorrected(exclude), use: caseCorrected(use))
             }
             return allMatches.filter { !solutionsList.contains($0)}
     }
