@@ -74,21 +74,30 @@ Dictionary is newline separated list of words.
         let wordFinder = try WordFinder(wordListPath: wordListPath, solutionsPath: solutionsPath, ignoreCase: ignoreCase)
         let _ = CommandLine.arguments
         // verify that exclude and use don't overlap if they aren't both nil. If they do, that's an error. Bounce.
-        if let template = template {
-            getAndPrint(for: template, using: wordFinder, limit:count, exclude: exclude, use: use)
-        } else {
-            while true {
-                print ("Search pattern", terminator: ": ")
-                template = readLine() ?? ""
-                if template == nil {
-                    fatalError("How can pattern be nil here? Unexpected exit.")
-                } else {
-                    if template!.isEmpty {return}
-                    getAndPrint(for: template!, using: wordFinder, limit: count, exclude: exclude, use: use)
+        if ignoreCase {
+            use = use.lowercased()
+            exclude = exclude.lowercased()
+        }
+        for letter in use {
+            if exclude.contains(letter) {
+                fatalError("Exclude list and use list cannot intersect\n")
+            }
+        }
+            if let template = template {
+                getAndPrint(for: template, using: wordFinder, limit:count, exclude: exclude, use: use)
+            } else {
+                while true {
+                    print ("Search pattern", terminator: ": ")
+                    template = readLine() ?? ""
+                    if template == nil {
+                        fatalError("How can pattern be nil here? Unexpected exit.")
+                    } else {
+                        if template!.isEmpty {return}
+                        getAndPrint(for: template!, using: wordFinder, limit: count, exclude: exclude, use: use)
+                    }
                 }
             }
         }
-    }
 }
 
 // getAndPrint - uing the template, print matches from wordFinder's dictionary.

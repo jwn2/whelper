@@ -58,12 +58,24 @@ struct WordFinder {
     // The resulting list are possible solutions that haven't previously solved Wordle.
     
     func findMatches(for template: String, exclude: String, use: String) -> [String] {
-        if use.count > 0 {
-            print (" \"\(use)\" must appear in the solutions")
-        }
             let allMatches = wordList.filter { candidate in
                 isMatch(template: caseCorrected(template), with: caseCorrected(candidate), exclude: caseCorrected(exclude), use: caseCorrected(use))
             }
-            return allMatches.filter { !solutionsList.contains($0)}
+            // allMatches contains everything from wordle-La (wordlist) that possibly match after excluding the exclude letters.
+            // the statement allMatches.filter { !solutionsList.containts($0))} removes words that are on wordle-Sa (solutionsList)
+            // instead of returning, eliminate words from the array that don't have all of the use list letters.
+        return findGolds (inputList: allMatches.filter { !solutionsList.contains($0)}, use:use)
+    }
+    
+    // findGolds returns the list of possbile solutions that contains all of the golds
+
+    func findGolds (inputList: [String], use: String) -> [String] {
+        var goldList: [String] = []
+        for candidate in inputList {
+            if use.allSatisfy(candidate.contains) {
+                goldList.append(candidate)
+            }
+        }
+        return goldList
     }
 }
