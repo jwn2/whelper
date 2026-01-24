@@ -94,6 +94,7 @@ audio
 audit
 avail
 avert
+avoid
 await
 awake
 award
@@ -114,6 +115,7 @@ balsa
 banal
 banjo
 barge
+baron
 basic
 basin
 baste
@@ -262,6 +264,7 @@ chard
 charm
 chart
 chase
+chasm
 cheap
 cheat
 check
@@ -297,6 +300,7 @@ clerk
 click
 climb
 cling
+clink
 cloak
 clock
 clone
@@ -358,6 +362,7 @@ crumb
 crush
 crust
 crypt
+cubic
 cumin
 curio
 curly
@@ -512,6 +517,7 @@ fewer
 fiber
 field
 fiend
+fiery
 fifth
 fifty
 filet
@@ -1123,6 +1129,7 @@ quite
 quota
 quote
 rabid
+racer
 radio
 rainy
 raise
@@ -1416,6 +1423,8 @@ suede
 sugar
 suite
 sulky
+sully
+sumac
 sunny
 super
 surer
@@ -1614,6 +1623,7 @@ waltz
 waste
 watch
 water
+waxen
 weary
 wedge
 weedy
